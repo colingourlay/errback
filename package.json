@@ -1,0 +1,14 @@
+{
+  "name": "errback",
+  "version": "1.0.0",
+  "description": "Pass standard error-first callbacks to functions that expect result-first callbacks",
+  "main": "index.js",
+  "author": "Colin Gourlay",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "tape tests"
+  }
+}
